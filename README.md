@@ -11,5 +11,8 @@ Further explanation can be found:
 ## Error Handling
 Apple has made error handling a first class citizen in Swift. Creating a `try` statement in a `do-catch` block allows you to properly handling failing code (see Optionals above). If a function `throws` you want your code to `catch` it so that errors can properly be handled, in a graceful way, so that either the user or developer knows when something has gone wrong.
 
+Slides for the talk available at:
+http://www.slideshare.net/SeanOShea7/swift-errors
+
 Further explanation can be found:
 * https://www.raywenderlich.com/130197/magical-error-handling-swift
